@@ -22,3 +22,20 @@
 
   background-color: var(--primary);
 }
+.btn-sec {
+  padding: 8px 20px;
+  border-radius: 4px;
+  color: #fff;
+  border: none;
+  cursor: pointer;
+  font-size: 18px;
+  background-color: #1888ff;
+}
+.btn-sec:hover {
+  padding: 8px 20px;
+  color: #1888ff;
+  border-radius: 4px;
+  font-size: 18px;
+  background: #fff;
+  border: 2px solid var(--primary);
+}
